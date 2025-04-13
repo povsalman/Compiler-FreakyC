@@ -1,2 +1,2 @@
 # Compiler-FreakyC
-A C based compiler
+A C++ based custom compiler
